@@ -11,3 +11,7 @@
 - create a .env file
 - require('dotenv').config() -> put in the server at the top
 - process.env.VARIABLE_NAME
+- Things to put in your .env
+  - DATABASE_URL
+  - PORT
+  - JWT_SECRET
